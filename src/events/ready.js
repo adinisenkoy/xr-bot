@@ -4,7 +4,7 @@ module.exports = {
     name: 'ready',
     once: true,
     execute(client) {
-        let activities = [`Berat ve Semih Gaymiş haberiniz olsun 🤫`], i = 0;
+        let activities = [`Adını Sen Koy Dizi Müzikleri`], i = 0;
 
         setInterval(() => {
             const now = new Date();
